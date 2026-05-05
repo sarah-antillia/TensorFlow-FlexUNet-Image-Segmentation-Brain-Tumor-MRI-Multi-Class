@@ -161,8 +161,8 @@ As shown above, the number of images of train and valid datasets is large enough
 
 <h3>2.2 Derivation of ImageMask Dataset</h3>
 The folder structure excluded healthy subset of the original Brain Tumor MRI Multi Class Dataset is the following.
-which contains JPG images files of three classes (glioma, meningioma and pituitary).
-Since it is a Brain Tumor Classificattion dataset, it does not contain annotation (segmentation) files corresponding to 
+It contains JPG image files of three classes (glioma, meningioma and pituitary).
+Since it is a Brain Tumor Classification dataset, it does not contain annotation (segmentation) files corresponding to 
 those images.
 <pre>
 ./multi_class_dataset
